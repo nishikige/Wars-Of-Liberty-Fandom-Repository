@@ -4,6 +4,7 @@
 
 .Main.Contents .lightbox-caption {
 	font-size: 1em;
+	background-color: white;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 }
